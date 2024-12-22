@@ -12,7 +12,6 @@
 		C6C8B5E42D16C89A00C4C070 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6C8B5E32D16C89A00C4C070 /* ContentView.swift */; };
 		C6C8B5E62D16C89B00C4C070 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C6C8B5E52D16C89B00C4C070 /* Assets.xcassets */; };
 		C6C8B5E92D16C89B00C4C070 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C6C8B5E82D16C89B00C4C070 /* Preview Assets.xcassets */; };
-		C6C8B5F02D16C8B100C4C070 /* Swipe.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6C8B5EF2D16C8B100C4C070 /* Swipe.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,7 +21,6 @@
 		C6C8B5E32D16C89A00C4C070 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		C6C8B5E52D16C89B00C4C070 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C6C8B5E82D16C89B00C4C070 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
-		C6C8B5EF2D16C8B100C4C070 /* Swipe.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Swipe.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,7 +56,6 @@
 				C6C8B5E12D16C89A00C4C070 /* newProject8App.swift */,
 				C6763F422D1863850041E63C /* SliderView.swift */,
 				C6C8B5E32D16C89A00C4C070 /* ContentView.swift */,
-				C6C8B5EF2D16C8B100C4C070 /* Swipe.swift */,
 				C6C8B5E52D16C89B00C4C070 /* Assets.xcassets */,
 				C6C8B5E72D16C89B00C4C070 /* Preview Content */,
 			);
@@ -143,7 +140,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C6C8B5F02D16C8B100C4C070 /* Swipe.swift in Sources */,
 				C6C8B5E42D16C89A00C4C070 /* ContentView.swift in Sources */,
 				C6763F432D1863850041E63C /* SliderView.swift in Sources */,
 				C6C8B5E22D16C89A00C4C070 /* newProject8App.swift in Sources */,
